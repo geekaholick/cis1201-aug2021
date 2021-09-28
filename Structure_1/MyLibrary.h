@@ -41,7 +41,7 @@ bool add_person(struct person *people, int *person_count, Person person);
 
 void display_all_females(Student *students, int student_count);
 /** \fn struct name* get_names(Person *people, int person_count, String address);
- *  \brief retrieves all the names of the person living in a specified address
+ *  \brief retrieves all the names of the person living in a specified address use a dummy name containing empty strings to append at the last element of your name list.
  *  \param people The list that contains all the person.
  *  \param person_count The current number of person in the list.
  *  \param address The address to look up in the lits. 
