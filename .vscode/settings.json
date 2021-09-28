@@ -1,0 +1,8 @@
+
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ctype.h": "c"
+    },
+    "editor.fontFamily": "‘Fira Code’, Consolas, ‘Courier New’, monospace"
+}
